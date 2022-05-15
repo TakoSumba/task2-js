@@ -1,1 +1,1 @@
-export var topics=["Internet Cats", "Meme's", "Typing", "Space", "Rick and Morty"];
+export var topicsData=["Internet Cats", "Meme's", "Typing", "Space", "Rick and Morty"];
